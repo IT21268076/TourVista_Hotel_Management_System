@@ -19,7 +19,7 @@ Open a terminal and navigate to the directory where you want to clone the fronte
 
 ```
 bash
-git clone <frontend-repository-url>
+git clone https://github.com/IT21268076/TourVista_Hotel_Management_System.git
 ```
 
 ### Step 2: Install Dependencies
@@ -52,7 +52,7 @@ Open a terminal and navigate to the directory where you want to clone the backen
 
 ```
 bash
-git clone <backend-repository-url>
+git clone https://github.com/IT21268076/TourVista_Hotel_Management_System.git
 ```
 
 ### Step 2: Configure MySQL Database
